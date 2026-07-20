@@ -137,6 +137,17 @@ piercings, or other physical details that have not been provided.
 - Final lyrics and release metadata must come from ArtistOS / the approved release workspace, not
   from model memory.
 
+### Voice reference status
+
+- One approximately 36-second speaking-video sample has been received and reviewed off-repository.
+- Technical format: AAC stereo, 44.1 kHz; the sample is usable as an initial speech and lipsync
+  reference.
+- The average recording level is low, so this sample is not sufficient by itself for a stable,
+  high-quality voice model.
+- Before any voice-model workflow, collect 1–3 minutes of clean, close-mic speech in a quiet room,
+  without music, effects, reverb, or other speakers.
+- Original voice media remains off-repository.
+
 ## 7. Dance and Motion
 
 ### Direction
