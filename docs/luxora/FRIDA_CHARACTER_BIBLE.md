@@ -26,6 +26,7 @@ This draft does not authorize generation, voice cloning, media publication, or c
 | Core market position | Premium international club-pop artist project |
 | Primary channels | TikTok, Instagram, Spotify, and YouTube |
 | Working musical territory | Swedish club pop, dark dance-pop, and disco-inspired dancefloor pop |
+| Likeness consent | Confirmed for the supplied images and Frida's digital Luxora character; voice use is not included |
 
 Anything not stated as canonical in this document remains unresolved and must not be invented as
 fact.
@@ -92,6 +93,22 @@ The palette is a creative starting point, not a requirement for every asset.
 - extra fingers, fused limbs, broken anatomy, or impossible dance poses,
 - random text, logos, or watermarks,
 - costumes that conflict with the approved concept or Frida's real comfort boundaries.
+
+### Tattoo fidelity — hard identity constraint
+
+Frida's tattoos are permanent identity markers and must be reproduced **100% accurately** whenever
+they are visible. Approximation is not acceptable.
+
+- Do not invent, simplify, restyle, mirror, move, resize, merge, omit, or add tattoo elements.
+- Any changed line, symbol, orientation, placement, scale, spacing, or body-side assignment is an
+  automatic rejection.
+- Standard generative reconstruction of visible tattoos is not an approved method because it
+  cannot guarantee exact fidelity.
+- Until an approved tattoo atlas and preservation workflow exist, concepts must either cover the
+  tattoos with approved wardrobe/framing or use controlled compositing from approved source
+  material.
+- A visible-tattoo output may advance only after frame-by-frame comparison against the approved
+  tattoo atlas and explicit approval from Qim and Frida.
 
 ## 5. Wardrobe Direction
 
@@ -204,6 +221,15 @@ Generation remains locked until the following are available and approved.
 - Three short, well-lit video clips: direct-to-camera, natural walking/turning, and simple dance.
 - Written confirmation that the likeness and selected audio may be used for the agreed workflow.
 
+### Frida tattoo atlas — required before visible-tattoo generation
+
+- High-resolution, distortion-free photos of every tattooed area in neutral, even light.
+- Straight-on views plus overlapping angles for outer, inner, front, and back sides of each arm.
+- Close-ups that preserve every line, symbol, color, and transition between tattoo sections.
+- No bracelets, watches, sleeves, hair, glare, or shadows covering the tattooed skin.
+- A simple body-side map naming each reference by left/right side and exact body area.
+- Frida and Qim approve the completed atlas as canonical before it is used.
+
 ### Qim and Robert
 
 Each person requires a separate folder, consent confirmation, and identity sheet. References must
@@ -235,6 +261,7 @@ An output may be kept only when all applicable checks pass:
 
 - Frida is recognizably the same person across the full asset.
 - Face, hands, body, clothing, and motion are coherent.
+- Every visible tattoo matches the approved tattoo atlas exactly; otherwise the output is rejected.
 - Audio and lipsync are synchronized.
 - The concept supports the selected song or campaign.
 - No unapproved people, brands, text, or claims appear.
