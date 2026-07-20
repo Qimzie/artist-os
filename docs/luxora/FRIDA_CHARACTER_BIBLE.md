@@ -26,7 +26,8 @@ This draft does not authorize generation, voice cloning, media publication, or c
 | Core market position | Premium international club-pop artist project |
 | Primary channels | TikTok, Instagram, Spotify, and YouTube |
 | Working musical territory | Swedish club pop, dark dance-pop, and disco-inspired dancefloor pop |
-| Likeness consent | Confirmed for the supplied images and Frida's digital Luxora character; voice use is not included |
+| Likeness consent | Confirmed for the supplied images and Frida's digital Luxora character |
+| Speaking-voice consent | Confirmed for Luxora voice profiling, lipsync, and individually approved AI productions |
 
 Anything not stated as canonical in this document remains unresolved and must not be invented as
 fact.
@@ -127,7 +128,8 @@ piercings, or other physical details that have not been provided.
 ## 6. Voice, Lyrics, and Lipsync
 
 - Use only audio, vocals, and recordings that Qim and Frida have authorized.
-- Voice cloning is disabled until Frida has explicitly consented to the exact use.
+- Frida has consented to use of her speaking voice for Luxora voice profiling, lipsync, and individually approved AI productions.
+- Consent does not authorize autonomous generation, unlimited reuse, or publishing; every production still follows the approval workflow in this document.
 - Do not synthesize statements that Frida did not approve.
 - Lipsync must match the approved master audio and preserve natural mouth, teeth, jaw, and facial
   motion.
